@@ -1,0 +1,15 @@
+D:\repos\Student Management System\Student Management System\bin\Debug\net10.0\Student Management System.exe
+D:\repos\Student Management System\Student Management System\bin\Debug\net10.0\Student Management System.deps.json
+D:\repos\Student Management System\Student Management System\bin\Debug\net10.0\Student Management System.runtimeconfig.json
+D:\repos\Student Management System\Student Management System\bin\Debug\net10.0\Student Management System.dll
+D:\repos\Student Management System\Student Management System\bin\Debug\net10.0\Student Management System.pdb
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.AssemblyInfoInputs.cache
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.AssemblyInfo.cs
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.csproj.CoreCompileInputs.cache
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.dll
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\refint\Student Management System.dll
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.pdb
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student Management System.genruntimeconfig.cache
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\ref\Student Management System.dll
+D:\repos\Student Management System\Student Management System\obj\Debug\net10.0\Student .B1F29E5F.Up2Date
